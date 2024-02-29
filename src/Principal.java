@@ -4,10 +4,11 @@
 //Fecha de creación 22 de febrero del 2024
 //Ultima modificación: 22 de febrero del 2024
 
-package gestor.empresarial;
+import gestor.empresarial.contrato.Cargos;
+import gestor.empresarial.datos.DatosEmpresariales;
+
 import gestor.empresarial.datos.*;
 import gestor.empresarial.contrato.*;
-
 public class Principal {
     public static void main(String[] args){
         //DatosPersonales ob1 = new DatosPersonales(); Este no se debe hacer
@@ -15,3 +16,5 @@ public class Principal {
         Cargos ca1;
     }
 }
+
+

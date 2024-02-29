@@ -1,6 +1,6 @@
 package gestor.empresarial.empresa;
 import gestor.empresarial.empleados.*;
-import gestor.empresarial.errores.*;
+import gestor.errores.*;
 
 public final class Empresa {
     String NombreEmpresa;

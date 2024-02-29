@@ -1,7 +1,9 @@
-package gestor.empresarial.archivos;
+package gestor.archivos;
+import gestor.archivos.iFileText;
+
 import java.io.*;
 
-public final class ArchivoTexto extends ControlArchivos implements iFileText{
+public final class ArchivoTexto extends ControlArchivos implements iFileText {
     private File file;
     private FileReader fr;
     private BufferedReader br;
@@ -38,3 +40,4 @@ public final class ArchivoTexto extends ControlArchivos implements iFileText{
         super(a);
     }
 }
+

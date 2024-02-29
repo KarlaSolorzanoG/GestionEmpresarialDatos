@@ -1,4 +1,4 @@
-package gestor.empresarial.archivos;
+package gestor.archivos;
 
 public abstract class ControlArchivos {
     //abstract obliga solo tener herencia

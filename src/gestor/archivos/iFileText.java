@@ -1,4 +1,4 @@
-package gestor.empresarial.archivos;
+package gestor.archivos;
 
 public interface iFileText {
     public void AbrirModoLectura();

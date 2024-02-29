@@ -1,7 +1,7 @@
 package gestor.empresarial.empleados;
 
 import gestor.empresarial.contrato.*;
-import gestor.empresarial.errores.*;
+import gestor.errores.*;
 
 public final class Empleados implements iEmpleados{
     int i;

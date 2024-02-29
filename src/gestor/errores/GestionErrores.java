@@ -1,4 +1,4 @@
-package gestor.empresarial.errores;
+package gestor.errores;
 import java.util.*;
 
 public final class GestionErrores {
@@ -28,3 +28,4 @@ public final class GestionErrores {
         return true;
     }
 }
+
