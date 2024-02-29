@@ -5,7 +5,6 @@
 //Ultima modificación: 22 de febrero del 2024
 
 package gestor.empresarial;
-
 import gestor.empresarial.datos.*;
 import gestor.empresarial.contrato.*;
 
