@@ -19,9 +19,9 @@ public class Login extends JFrame implements ActionListener {
     }
 
     @Override
-    public void ActionPerformed(ActionEvent e){
+    public void actionPerformed(ActionEvent e){
         if(e.getSource() == btnGuardar){
-            JOptionPane.showConfirmDialog("Hola mundo");
+            JOptionPane.showConfirmDialog(null,"Hola mundo");
         }
     }
 }
